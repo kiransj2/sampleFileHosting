@@ -1,73 +1,73 @@
 {
     "boothAgents": [
         {
-            "boothNumber": "1",
+            "boothNumber": 1,
             "Name": "Kiran",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "2",
+            "boothNumber": 2,
             "Name": "Kiran2",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "3",
+            "boothNumber": 3,
             "Name": "Kiran3",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "4",
+            "boothNumber": 4,
             "Name": "Kiran4",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "5",
+            "boothNumber": 5,
             "Name": "Kiran5",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "6",
+            "boothNumber": 6,
             "Name": "Kiran6",
             "phone": "123456",
             "address": ""
         },
         {
-            "boothNumber": "7",
+            "boothNumber": 7,
             "Name": "Kiran7",
             "phone": "123456",
             "address": ""
         },
         {
-            "boothNumber": "8",
+            "boothNumber": 8,
             "Name": "Kiran8",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "9",
+            "boothNumber": 9,
             "Name": "Kiran9",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "10",
+            "boothNumber": 10,
             "Name": "Kiran10",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "11",
+            "boothNumber": 11,
             "Name": "Kiran11",
             "phone": "12345",
             "address": ""
         },
         {
-            "boothNumber": "12",
+            "boothNumber": 12,
             "Name": "Kiran12",
             "phone": "123456",
             "address": ""
