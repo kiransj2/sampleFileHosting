@@ -38,7 +38,37 @@
         },
         {
             "boothNumber": "7",
-            "Name": "Kiran6",
+            "Name": "Kiran7",
+            "phone": "123456",
+            "address": ""
+        },
+        {
+            "boothNumber": "8",
+            "Name": "Kiran8",
+            "phone": "12345",
+            "address": ""
+        },
+        {
+            "boothNumber": "9",
+            "Name": "Kiran9",
+            "phone": "12345",
+            "address": ""
+        },
+        {
+            "boothNumber": "10",
+            "Name": "Kiran10",
+            "phone": "12345",
+            "address": ""
+        },
+        {
+            "boothNumber": "11",
+            "Name": "Kiran11",
+            "phone": "12345",
+            "address": ""
+        },
+        {
+            "boothNumber": "12",
+            "Name": "Kiran12",
             "phone": "123456",
             "address": ""
         }
