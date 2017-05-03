@@ -1,0 +1,34 @@
+{
+    "details": [
+        {
+            "boothNumber": "1",
+            "Name": "Kiran",
+            "phone": "12345",
+            "address": ""
+        },
+        {
+            "boothNumber": "2",
+            "Name": "Kiran2",
+            "phone": "12345",
+            "address": ""
+        },
+        {
+            "boothNumber": "3",
+            "Name": "Kiran3",
+            "phone": "12345",
+            "address": ""
+        },
+        {
+            "boothNumber": "4",
+            "Name": "Kiran4",
+            "phone": "12345",
+            "address": ""
+        },
+        {
+            "boothNumber": "5",
+            "Name": "Kiran5",
+            "phone": "12345",
+            "address": ""
+        }
+    ]
+}
