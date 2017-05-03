@@ -29,6 +29,12 @@
             "Name": "Kiran5",
             "phone": "12345",
             "address": ""
+        },
+        {
+            "boothNumber": "6",
+            "Name": "Kiran6",
+            "phone": "123456",
+            "address": ""
         }
     ]
 }
