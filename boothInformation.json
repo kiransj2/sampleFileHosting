@@ -1,0 +1,1663 @@
+{
+    "booths": [
+        {
+            "partNumber": 1,
+            "wardNumber": 18,
+            "population": 1073,
+            "address": "Gandhi Vidyalaya kannada and Tamil Primary School. Room no 1",
+            "Locality": "Lottagolla Halli"
+        },
+        {
+            "partNumber": 2,
+            "wardNumber": 18,
+            "population": 1268,
+            "address": "BBMP Ward office. Opp. Sterling Apartment. Lottegollahalli Room No-1",
+            "Locality": "Lottagolla Halli"
+        },
+        {
+            "partNumber": 3,
+            "wardNumber": 18,
+            "population": 1132,
+            "address": "BBMP Ward office. Opp. Sterling Apartment. Lottegollahalli Room No-2",
+            "Locality": "Lottagolla Halli"
+        },
+        {
+            "partNumber": 4,
+            "wardNumber": 18,
+            "population": 1205,
+            "address": "St John Play Home Lottegollahalli Railway Colony Room No1",
+            "Locality": "Lottagolla Halli"
+        },
+        {
+            "partNumber": 5,
+            "wardNumber": 18,
+            "population": 676,
+            "address": "St John Play Home Lottegollahalli Railway Colony Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 6,
+            "wardNumber": 18,
+            "population": 1339,
+            "address": "SriChannakeshava Educational Institution & Primary School Basaveshwara Layout Nagashettyhalli Room No.1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 7,
+            "wardNumber": 18,
+            "population": 1163,
+            "address": "SriChannakeshava Educational Institution & Primary School Basaveshwara Layout Nagashettyhalli Room No.2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 8,
+            "wardNumber": 19,
+            "population": 1043,
+            "address": "Sunrise English School Bhoopsandra Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 9,
+            "wardNumber": 19,
+            "population": 619,
+            "address": "Sunrise English School Bhoopsandra Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 10,
+            "wardNumber": 19,
+            "population": 695,
+            "address": "Sunrise English School Bhoopsandra Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 11,
+            "wardNumber": 19,
+            "population": 1434,
+            "address": "Sunrise English School Bhoopsandra Room No4",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 12,
+            "wardNumber": 19,
+            "population": 936,
+            "address": "Sunrise English School Bhoopsandra Room No5",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 13,
+            "wardNumber": 19,
+            "population": 986,
+            "address": "Sunrise English School Bhoopsandra Room No6",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 14,
+            "wardNumber": 19,
+            "population": 743,
+            "address": "Govt Urdu Higher Primary School Bhoopsandra Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 15,
+            "wardNumber": 19,
+            "population": 1213,
+            "address": "Govt Urdu Higher Primary School Bhoopsandra Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 16,
+            "wardNumber": 19,
+            "population": 1006,
+            "address": "Govt Urdu Higher Primary School Bhoopsandra Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 17,
+            "wardNumber": 19,
+            "population": 1006,
+            "address": "Govt Urdu Higher Primary School Bhoopsandra Room No4",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 18,
+            "wardNumber": 22,
+            "population": 1112,
+            "address": "Govt Lower Primary School Guddadahalli Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 19,
+            "wardNumber": 22,
+            "population": 764,
+            "address": "Govt Primary School Guddadahalli Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 20,
+            "wardNumber": 22,
+            "population": 1093,
+            "address": "Govt Primary School Guddadahalli Room No3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 21,
+            "wardNumber": 22,
+            "population": 1698,
+            "address": "Anganawadi Kendra. Guddadahalli. Room No.1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 22,
+            "wardNumber": 21,
+            "population": 849,
+            "address": "Anganawadi Kendra Gosayee Slum Kunti Grama Guddadahalli Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 23,
+            "wardNumber": 20,
+            "population": 1064,
+            "address": "BBMP Office 'A' Block Hebbal Room No 1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 24,
+            "wardNumber": 20,
+            "population": 534,
+            "address": "BBMP Office 'A' Block Hebbal Room No 2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 25,
+            "wardNumber": 22,
+            "population": 855,
+            "address": "Govt Lower Primary School Vishwanatha Nagenahalli Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 26,
+            "wardNumber": 22,
+            "population": 974,
+            "address": "Govt Lower Primary School Vishwanatha Nagenahalli Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 27,
+            "wardNumber": 22,
+            "population": 638,
+            "address": "Govt Lower Primary School Vishwanatha Nagenahalli Room No3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 28,
+            "wardNumber": 22,
+            "population": 1515,
+            "address": "Ashraya English Nursery & Primary School. V.Naganahalli. (Patel Muniyappa Layout) . Room No.1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 29,
+            "wardNumber": 22,
+            "population": 1308,
+            "address": "Govt Lower Primary School Vishwanatha Nagenahalli Room No4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 30,
+            "wardNumber": 22,
+            "population": 655,
+            "address": "Govt Lower Primary School Vishwanatha Nagenahalli Room No5",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 31,
+            "wardNumber": 22,
+            "population": 1706,
+            "address": "Ashraya English Nursery & Primary School. V.Nagenahalli. (Patel Muniyappa Layout) Room No.2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 32,
+            "wardNumber": 21,
+            "population": 1311,
+            "address": "Govt Higher Primary School Cholanayakanahalli Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 33,
+            "wardNumber": 22,
+            "population": 1229,
+            "address": "Govt Higher Primary School Cholanayakanahalli Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 34,
+            "wardNumber": 22,
+            "population": 1436,
+            "address": "Govt Higher Primary School Cholanayakanahalli Room No3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 35,
+            "wardNumber": 22,
+            "population": 1370,
+            "address": "Govt Higher Primary School Cholanayakanahalli Room No4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 36,
+            "wardNumber": 21,
+            "population": 939,
+            "address": "Govt Urdu Higher Primary School Bellary Mainroad Hebbal Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 37,
+            "wardNumber": 20,
+            "population": 1038,
+            "address": "Ashraya English School Chinnamari Layout Hebbal 'A' Block Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 38,
+            "wardNumber": 20,
+            "population": 1223,
+            "address": "Ashraya English School. Chinnamari Layout Room No.2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 39,
+            "wardNumber": 19,
+            "population": 1361,
+            "address": "Shree Vidyashree Public School Near Nagashettyhalli Bus Stand Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 40,
+            "wardNumber": 19,
+            "population": 1087,
+            "address": "Shree Vidyashree Public School Near Nagashettyhalli Bus Stand Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 41,
+            "wardNumber": 18,
+            "population": 1062,
+            "address": "Millenium Public School Nagashettyhalli Mainroad Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 42,
+            "wardNumber": 18,
+            "population": 1380,
+            "address": "Millenium Public School Nagashettyhalli Mainroad Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 43,
+            "wardNumber": 18,
+            "population": 1197,
+            "address": "Millenium Public School Nagashettyhalli Mainroad Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 44,
+            "wardNumber": 19,
+            "population": 807,
+            "address": "Millenium Public School Nagashettyhalli Mainroad Room No4",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 45,
+            "wardNumber": 19,
+            "population": 1284,
+            "address": "Shree Vidyashree Public School Near Nagashettyhalli Bus Stand Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 46,
+            "wardNumber": 18,
+            "population": 1158,
+            "address": "Florance English High School Maruthi Layout Nagashetti Halli Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 47,
+            "wardNumber": 18,
+            "population": 1493,
+            "address": "Florance English High School Maruthi Layout Nagashetti Halli Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 48,
+            "wardNumber": 18,
+            "population": 1009,
+            "address": "Gopal Ramnarayan Govt Model Primary School Dollars Colony Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 49,
+            "wardNumber": 18,
+            "population": 922,
+            "address": "Gopal Ramnarayan Govt Model Primary School Dollars Colony Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 50,
+            "wardNumber": 18,
+            "population": 1194,
+            "address": "Gopal Ramnarayan Govt Model Primary School Dollars Colony Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 51,
+            "wardNumber": 18,
+            "population": 837,
+            "address": "Gopal Ramnarayan Govt Model Primary School Dollars Colony Room No4",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 52,
+            "wardNumber": 19,
+            "population": 1450,
+            "address": "Subhash Memorial English High School Bhoopsandra Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 53,
+            "wardNumber": 19,
+            "population": 1178,
+            "address": "Subhash Memorial English High School Bhoopsandra Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 54,
+            "wardNumber": 19,
+            "population": 699,
+            "address": "Subhash Memorial English High School Bhoopsandra Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 55,
+            "wardNumber": 19,
+            "population": 833,
+            "address": "Subhash Memorial English High School Bhoopsandra Room No4",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 56,
+            "wardNumber": 19,
+            "population": 1062,
+            "address": "Subhash Memorial English High School Bhoopsandra Room No5",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 57,
+            "wardNumber": 21,
+            "population": 1338,
+            "address": "Govt Model Primary School Hebbal Room No 1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 58,
+            "wardNumber": 21,
+            "population": 941,
+            "address": "Govt Model Primary School Hebbal Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 59,
+            "wardNumber": 21,
+            "population": 1146,
+            "address": "Govt Model Primary School Hebbal Room No3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 60,
+            "wardNumber": 21,
+            "population": 1033,
+            "address": "Govt Model Primary School Hebbal Room No4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 61,
+            "wardNumber": 21,
+            "population": 1368,
+            "address": "Govt Model Primary School Hebbal Room No5",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 62,
+            "wardNumber": 21,
+            "population": 471,
+            "address": "Govt Model Primary School Hebbal Room No6",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 63,
+            "wardNumber": 22,
+            "population": 567,
+            "address": "Little Angel Public School 7th Cross Kanakanagara Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 64,
+            "wardNumber": 22,
+            "population": 1310,
+            "address": "Little Angel Public School 7th Cross Kanakanagara Room No.2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 65,
+            "wardNumber": 22,
+            "population": 1345,
+            "address": "Little Angel Public School 7th Cross Kanakanagara Room No.3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 66,
+            "wardNumber": 22,
+            "population": 842,
+            "address": "Little Angel Public School 7th Cross Kanakanagara Room No.4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 67,
+            "wardNumber": 33,
+            "population": 1142,
+            "address": "Little Angel Public School 7th Cross Kanakanagara Room No5",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 68,
+            "wardNumber": 33,
+            "population": 1246,
+            "address": "Little Angel Public School 7th Cross Kanakanagara Room No.6",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 69,
+            "wardNumber": 22,
+            "population": 1032,
+            "address": "D.B.D. Education Society (R) MC'NAY DOON'S Public School. Bhuvaneshwarinagar.(3rd 'A' Cross. Kanakanagar). Room No.1",
+            "Locality": "DJHalli"
+        },
+        {
+            "partNumber": 70,
+            "wardNumber": 22,
+            "population": 756,
+            "address": "D.B.D. Education Society (R) MC'NAY DOON'S Public School. Bhuvaneshwarinagar.(3rd 'A' Cross. Kanakanagar). Room No.2",
+            "Locality": "DJHalli"
+        },
+        {
+            "partNumber": 71,
+            "wardNumber": 22,
+            "population": 1682,
+            "address": "Nehru Centuary English School 5th Cross Kanakanagara Room No.1",
+            "Locality": "DJHalli"
+        },
+        {
+            "partNumber": 72,
+            "wardNumber": 22,
+            "population": 1352,
+            "address": "Nehru Centuary English School 5th Cross Kanakanagara Room No.2",
+            "Locality": "DJHalli"
+        },
+        {
+            "partNumber": 73,
+            "wardNumber": 22,
+            "population": 967,
+            "address": "Nehru Centuary English School 5th Cross Kanakanagara Room No.3",
+            "Locality": "DJHalli"
+        },
+        {
+            "partNumber": 74,
+            "wardNumber": 22,
+            "population": 718,
+            "address": "Nehru Centuary English School 5th Cross Kanakanagara Room No.4",
+            "Locality": "DJHalli"
+        },
+        {
+            "partNumber": 75,
+            "wardNumber": 19,
+            "population": 1432,
+            "address": "AEE(Sanjayanagar) BBMP Ward Office NGEF Layout Citizen Service Center Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 76,
+            "wardNumber": 19,
+            "population": 868,
+            "address": "SriVenkateshwaraswamy Higher Primary School Nagashettyhali Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 77,
+            "wardNumber": 19,
+            "population": 672,
+            "address": "SriVenkateshwaraswamy Higher Primary School Nagashettyhali Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 78,
+            "wardNumber": 18,
+            "population": 1066,
+            "address": "RajMahal Vilas High School Nagashettyhalli Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 79,
+            "wardNumber": 18,
+            "population": 1387,
+            "address": "RajMahal Vilas High School Nagashettyhalli Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 80,
+            "wardNumber": 18,
+            "population": 1164,
+            "address": "RajMahal Vilas High School Nagashettyhalli Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 81,
+            "wardNumber": 21,
+            "population": 1312,
+            "address": "SES English School 5th Mainroad Hebbal Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 82,
+            "wardNumber": 21,
+            "population": 1428,
+            "address": "SES English School 5th Mainroad Hebbal Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 83,
+            "wardNumber": 21,
+            "population": 1096,
+            "address": "AS Kupparaju And Brothers Vidyanikethana High School Anandanagara Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 84,
+            "wardNumber": 21,
+            "population": 764,
+            "address": "AS Kupparaju And Brothers Vidyanikethana High School Anandanagara Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 85,
+            "wardNumber": 21,
+            "population": 1019,
+            "address": "AS Kupparaju And Brothers Vidyanikethana High School Anandanagara Room No3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 86,
+            "wardNumber": 21,
+            "population": 1161,
+            "address": "AS Kupparaju And Brothers Vidyanikethana High School Anandanagara Room No4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 87,
+            "wardNumber": 21,
+            "population": 464,
+            "address": "AS Kupparaju And Brothers Vidyanikethana High School Anandanagara. Room No.5",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 88,
+            "wardNumber": 21,
+            "population": 1121,
+            "address": "UAS Campus Primary School Hebbal Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 89,
+            "wardNumber": 21,
+            "population": 744,
+            "address": "UAS Campus Primary School Hebbal Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 90,
+            "wardNumber": 33,
+            "population": 734,
+            "address": "Ann Maria Public School 1st Mainroad Bhuvaneshwarinagar Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 91,
+            "wardNumber": 33,
+            "population": 1077,
+            "address": "Ann Maria Public School 1st Mainroad Bhuvaneshwarinagar Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 92,
+            "wardNumber": 22,
+            "population": 1230,
+            "address": "Ann Maria Public School 1st Mainroad Bhuvaneshwarinagar Room No3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 93,
+            "wardNumber": 22,
+            "population": 458,
+            "address": "Ann Maria Public School 1st Mainroad Bhuvaneshwarinagar Room No.4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 94,
+            "wardNumber": 22,
+            "population": 911,
+            "address": "Ann Maria Public School 1st Mainroad Bhuvaneshwarinagar Room No.5",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 95,
+            "wardNumber": 33,
+            "population": 1070,
+            "address": "New India Public Primary School Chamundinagara Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 96,
+            "wardNumber": 33,
+            "population": 587,
+            "address": "New India Public Primary School Chamundinagara Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 97,
+            "wardNumber": 33,
+            "population": 1586,
+            "address": "New India Public Primary School Chamundinagara Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 98,
+            "wardNumber": 33,
+            "population": 1063,
+            "address": "Govt Urdu Primary School Chamundinagar Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 99,
+            "wardNumber": 33,
+            "population": 1018,
+            "address": "Govt Urdu Primary School Chamundinagar Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 100,
+            "wardNumber": 21,
+            "population": 1410,
+            "address": "Vidhya Vahini School & College Anandanagar Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 101,
+            "wardNumber": 21,
+            "population": 251,
+            "address": "Vidhya Vahini School & College Anandanagar Room No.2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 102,
+            "wardNumber": 21,
+            "population": 981,
+            "address": "UAS Campus Primary School Hebbal Room No.3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 103,
+            "wardNumber": 20,
+            "population": 839,
+            "address": "UAS Campus Primary School Hebbal Room No.4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 104,
+            "wardNumber": 19,
+            "population": 1039,
+            "address": "Daffodils English School Sanjaynagar Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 105,
+            "wardNumber": 19,
+            "population": 774,
+            "address": "Daffodils English School Sanjaynagar Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 106,
+            "wardNumber": 19,
+            "population": 684,
+            "address": "Daffodils English School Sanjaynagar Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 107,
+            "wardNumber": 19,
+            "population": 965,
+            "address": "Daffodils English School Sanjaynagar Room No4",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 108,
+            "wardNumber": 19,
+            "population": 976,
+            "address": "Chiranthana English Primary & High School Geddalahalli. Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 109,
+            "wardNumber": 18,
+            "population": 1305,
+            "address": "Sandeepini Nikethan English School Sanjaynagar Room no 1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 110,
+            "wardNumber": 18,
+            "population": 1460,
+            "address": "Jawahar Vidhya Kendra English School Geddalahalli Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 111,
+            "wardNumber": 18,
+            "population": 1137,
+            "address": "Jawahar Vidhya Kendra English School Geddalahalli Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 112,
+            "wardNumber": 18,
+            "population": 1398,
+            "address": "Vivek Niketana English School Geddalahalli Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 113,
+            "wardNumber": 18,
+            "population": 971,
+            "address": "Vivek Niketana English School Geddalahalli Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 114,
+            "wardNumber": 18,
+            "population": 1053,
+            "address": "Sandipini Nikethan English School Geddalahalli Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 115,
+            "wardNumber": 18,
+            "population": 867,
+            "address": "Sandipini Nikethan English School Geddalahalli Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 116,
+            "wardNumber": 18,
+            "population": 994,
+            "address": "Sandipini Nikethan English School Geddalahalli Room No4",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 117,
+            "wardNumber": 18,
+            "population": 651,
+            "address": "Sandipini Nikethan English School Geddalahalli Room No5",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 118,
+            "wardNumber": 18,
+            "population": 751,
+            "address": "Sandipini Nikethan English School Geddalahalli Room No6",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 119,
+            "wardNumber": 18,
+            "population": 479,
+            "address": "Sandipini Nikethan English School Geddalahalli Room No7",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 120,
+            "wardNumber": 21,
+            "population": 869,
+            "address": "Mamatha High School Manjunatha Layout Mainroad Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 121,
+            "wardNumber": 21,
+            "population": 1139,
+            "address": "Mamatha High School Manjunatha Layout Mainroad Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 122,
+            "wardNumber": 33,
+            "population": 1153,
+            "address": "Trillum Public School.7th Cross. Chamandinagar. Room No.1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 123,
+            "wardNumber": 33,
+            "population": 1074,
+            "address": "Trillum Public School.7th Cross. Chamandinagar. Room No.2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 124,
+            "wardNumber": 33,
+            "population": 856,
+            "address": "Newton Education Society Subhas Memorial English School Venkataswamappa Layout Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 125,
+            "wardNumber": 33,
+            "population": 1447,
+            "address": "Newton Education Society Subhas Memorial Engaish School Venkataswamappa Layout Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 126,
+            "wardNumber": 33,
+            "population": 1005,
+            "address": "Newton Education Society Subhas Memorial English School Venkataswamappa Layout Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 127,
+            "wardNumber": 33,
+            "population": 662,
+            "address": "Newton Education Society Subhas Memorial English School Venkataswamappa Layout Room No4",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 128,
+            "wardNumber": 22,
+            "population": 1216,
+            "address": "B.E.S. Public School.5th Cross. Gopalappa Layout. Room No.1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 129,
+            "wardNumber": 22,
+            "population": 1228,
+            "address": "B.E.S. Public School.5th Cross. Gopalappa Layout . Room No.2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 130,
+            "wardNumber": 22,
+            "population": 1242,
+            "address": "B.E.S. Public School.5th Cross. Gopalappa Layout . Room No.3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 131,
+            "wardNumber": 22,
+            "population": 1548,
+            "address": "B.E.S. Public School.5th Cross. Gopalappa Layout . Room No.4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 132,
+            "wardNumber": 21,
+            "population": 1359,
+            "address": "Acharya Institute Seethappa Layout CNMainroad Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 133,
+            "wardNumber": 21,
+            "population": 1030,
+            "address": "Acharya Institute Seethappa Layout CNMainroad Room No2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 134,
+            "wardNumber": 33,
+            "population": 1028,
+            "address": "Everest Public SchoolBeerappa Garden Chamundinagara Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 135,
+            "wardNumber": 33,
+            "population": 780,
+            "address": "Everest Public SchoolBeerappa GardenChamundinagara Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 136,
+            "wardNumber": 33,
+            "population": 621,
+            "address": "Everest Public SchoolBeerappa Garden Chamundinagara Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 137,
+            "wardNumber": 33,
+            "population": 503,
+            "address": "Everest Public SchoolBeerappa GardenChamundinagara Room No4",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 138,
+            "wardNumber": 33,
+            "population": 917,
+            "address": "Everest Public School Chamundinagara Room No5",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 139,
+            "wardNumber": 22,
+            "population": 1019,
+            "address": "MSConvent 6th C Cross Manorayanapalya Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 140,
+            "wardNumber": 22,
+            "population": 681,
+            "address": "MSConvent 6th C Cross Manorayanapalya Room no.2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 141,
+            "wardNumber": 33,
+            "population": 1286,
+            "address": "St. Philomina School.Babu Reddy Layout. Manorayanapalya. Room No.1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 142,
+            "wardNumber": 22,
+            "population": 1255,
+            "address": "MSConvent 6th C Cross Manorayanapalya Room No3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 143,
+            "wardNumber": 22,
+            "population": 852,
+            "address": "MSConvent 6th C Cross Manorayanapalya Room No4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 144,
+            "wardNumber": 22,
+            "population": 1497,
+            "address": "MSConvent 6th C Cross Manorayanapalya Room No.5",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 145,
+            "wardNumber": 22,
+            "population": 347,
+            "address": "Vijaya Bharathi Public School. 1st Main Road. Bhuvaneshwarinagar Room No.1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 146,
+            "wardNumber": 22,
+            "population": 1437,
+            "address": "Vijaya Bharathi Public School.1st Main Road. Bhuvaneshwarinagar Room No.2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 147,
+            "wardNumber": 22,
+            "population": 779,
+            "address": "Govt Higher Primary School Manorayana Palya Room No1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 148,
+            "wardNumber": 22,
+            "population": 1012,
+            "address": "Govt Higher Primary School Manorayana Palya Room No.2",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 149,
+            "wardNumber": 22,
+            "population": 1228,
+            "address": "Govt Higher Primary School. 1st Floor. Manorayana Palya Room No.3",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 150,
+            "wardNumber": 22,
+            "population": 1079,
+            "address": "Govt. Higher Primary School.1st Floor. Manorayanapalya. Room No.4",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 151,
+            "wardNumber": 22,
+            "population": 1029,
+            "address": "Anganawadi Kendra.3rd Cross. Manorayanapalya. Room No.1",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 152,
+            "wardNumber": 20,
+            "population": 1077,
+            "address": "Vyayama Shale RBI Colony Anand Nagar Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 153,
+            "wardNumber": 20,
+            "population": 668,
+            "address": "Vyayama Shale RBI Colony Anand Nagar. Room No.2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 154,
+            "wardNumber": 20,
+            "population": 1064,
+            "address": "Govt Model Primary School Geddalahalli Room No1",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 155,
+            "wardNumber": 20,
+            "population": 771,
+            "address": "Govt Model Primary School Geddalahalli Room No2",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 156,
+            "wardNumber": 19,
+            "population": 805,
+            "address": "Govt Model Primary School Geddalahalli Room No3",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 157,
+            "wardNumber": 19,
+            "population": 790,
+            "address": "Govt Model Primary School Geddalahalli Room No4",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 158,
+            "wardNumber": 18,
+            "population": 525,
+            "address": "Govt Model Primary School Geddalahalli Room No5",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 159,
+            "wardNumber": 18,
+            "population": 539,
+            "address": "Govt Model Primary School Geddalahalli Room No6",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 160,
+            "wardNumber": 18,
+            "population": 589,
+            "address": "Govt Model Primary School Geddalahalli Room No7",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 161,
+            "wardNumber": 18,
+            "population": 481,
+            "address": "Sandeepeeni Nikethana English Society Geddalahalli Room No8",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 162,
+            "wardNumber": 18,
+            "population": 836,
+            "address": "Sandeepeeni Nikethana English Society Geddalahalli Room No9",
+            "Locality": "Sanjayanag ar"
+        },
+        {
+            "partNumber": 163,
+            "wardNumber": 20,
+            "population": 910,
+            "address": "Modern Public English School. 5th Main Road. HGH Layout. Ganganagar. Room No.4",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 164,
+            "wardNumber": 20,
+            "population": 1411,
+            "address": "Impact English School 6th Cross Ganganagara Room No 1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 165,
+            "wardNumber": 20,
+            "population": 907,
+            "address": "Impact English Primary School6th Cross Ganganagara North Room No 2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 166,
+            "wardNumber": 20,
+            "population": 967,
+            "address": "Impact English Primary School 6th Cross Ganganagara North Room No 3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 167,
+            "wardNumber": 20,
+            "population": 715,
+            "address": "Impact English Primary School 6th Cross Ganganagara North Room No 4",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 168,
+            "wardNumber": 20,
+            "population": 848,
+            "address": "Impact English Primary School 6th Cross Ganganagara North Room No 5",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 169,
+            "wardNumber": 33,
+            "population": 1431,
+            "address": "Presidency Nursery Primary School. H M T Lyt Ganganagara",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 170,
+            "wardNumber": 20,
+            "population": 1235,
+            "address": "Presidency Nursery Primary SchoolH M T Lyt Ganganagara Room No 2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 171,
+            "wardNumber": 20,
+            "population": 1386,
+            "address": "Presidency Nursery Primary SchoolH M T Lyt Ganganagara Room No 3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 172,
+            "wardNumber": 33,
+            "population": 677,
+            "address": "R T Nagar Public School HMT Layout Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 173,
+            "wardNumber": 33,
+            "population": 1160,
+            "address": "RT Nagar Public School HMT Layout Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 174,
+            "wardNumber": 33,
+            "population": 1176,
+            "address": "Govt Urdu Higher Primary School 2nd Cross Kousarnagar Room No.1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 175,
+            "wardNumber": 33,
+            "population": 1087,
+            "address": "Govt Urdu HIgher Primary School 2nd Cross KousarnagaraRoom No 2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 176,
+            "wardNumber": 46,
+            "population": 1102,
+            "address": "Vatican High School 7th Cross Dinnur",
+            "Locality": "Hebbal"
+        },
+        {
+            "partNumber": 177,
+            "wardNumber": 46,
+            "population": 744,
+            "address": "Crown Convent Higher Primary & High School 1st Cross Kousarnagara Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 178,
+            "wardNumber": 46,
+            "population": 500,
+            "address": "Crown Convent Higher Primary & High School 1st Cross Kousarnagara Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 179,
+            "wardNumber": 34,
+            "population": 1411,
+            "address": "Govt Kannada Model Primary BBMP School Harijana Colony Gangenahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 180,
+            "wardNumber": 34,
+            "population": 448,
+            "address": "Govt Kannada Model Primary BBMP School Harijana Colony Gangenahalli Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 181,
+            "wardNumber": 20,
+            "population": 873,
+            "address": "Govt Kannada Model Primary BBMP School Harijana Colony Gangenahalli Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 182,
+            "wardNumber": 34,
+            "population": 1535,
+            "address": "Modern English School 5th Mainroad H G H Layout Ganganagara Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 183,
+            "wardNumber": 20,
+            "population": 1591,
+            "address": "Modern English School5th Mainroad H G H Lyt Ganganagara Room No 2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 184,
+            "wardNumber": 20,
+            "population": 1667,
+            "address": "Modern English School5th Mainroad H G H Lyt Ganganagara Room No 3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 185,
+            "wardNumber": 34,
+            "population": 1226,
+            "address": "Govt Urdu Higher Primary School 1st Mainroad HGH Layout Gangenahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 186,
+            "wardNumber": 20,
+            "population": 658,
+            "address": "Govt Urdu Higher Primary School5th Mainroad H G H Lyt Ganganagara Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 187,
+            "wardNumber": 20,
+            "population": 965,
+            "address": "Vidya Deep Public School 2nd Cross Bellary Rd Dena Bank Colony",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 188,
+            "wardNumber": 20,
+            "population": 1469,
+            "address": "R T Nagar Public School 3rd Main K H M Ganganagara Room No 1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 189,
+            "wardNumber": 20,
+            "population": 1449,
+            "address": "Ward Office Engineering Department Near Ganganagara Bus Stop Room No 1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 190,
+            "wardNumber": 33,
+            "population": 960,
+            "address": "St Michael English School Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 191,
+            "wardNumber": 46,
+            "population": 793,
+            "address": "St Michael English School Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 192,
+            "wardNumber": 46,
+            "population": 1218,
+            "address": "Flowrence Public School Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 193,
+            "wardNumber": 34,
+            "population": 1664,
+            "address": "Sri Vani English School 1st 'B' Main Hebbal Binny Mill Gangenahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 194,
+            "wardNumber": 34,
+            "population": 1197,
+            "address": "Sri Vani English School 1st 'B' Main Hebbal Binny Mill Gangenahalli Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 195,
+            "wardNumber": 34,
+            "population": 500,
+            "address": "Sri Vani English School 1st 'B' Main Hebbal Binny Mill Gangenahalli. Room No.3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 196,
+            "wardNumber": 34,
+            "population": 1134,
+            "address": "Alwin Public School 1st Mainroad Hebbal Binny Mill Gangenahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 197,
+            "wardNumber": 34,
+            "population": 640,
+            "address": "Alwin Public School 1st Mainroad Hebbal Binny Mill Gangenahalli. Room No.4",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 198,
+            "wardNumber": 34,
+            "population": 895,
+            "address": "Alwin Public School 1st Mainroad Hebbal Binny Mill Gangenahalli Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 199,
+            "wardNumber": 34,
+            "population": 860,
+            "address": "Alwin Public School 1st Mainroad Hebbal Binny Mill Gangenahalli Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 200,
+            "wardNumber": 46,
+            "population": 1166,
+            "address": "Corporation Nursery School Shishuvihara Dinnur Mainroad Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 201,
+            "wardNumber": 46,
+            "population": 828,
+            "address": "Flowrence Public School Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 202,
+            "wardNumber": 46,
+            "population": 915,
+            "address": "Flowrence Public School Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 203,
+            "wardNumber": 46,
+            "population": 922,
+            "address": "Adarsha Vidya Mandira 1st Block RTNagar Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 204,
+            "wardNumber": 46,
+            "population": 1055,
+            "address": "Adarsha Vidya Mandira 1st Block RTNagar Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 205,
+            "wardNumber": 33,
+            "population": 952,
+            "address": "Adarsha Vidya Mandira 1st Block RTNagar Room No.3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 206,
+            "wardNumber": 46,
+            "population": 1279,
+            "address": "Adarsha Vidya Mandira 1st Block RTNagar Room No4",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 207,
+            "wardNumber": 46,
+            "population": 1340,
+            "address": "Adarsha Vidya Mandira 1st Block RTNagar Room No5",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 208,
+            "wardNumber": 34,
+            "population": 1068,
+            "address": "Gem English School 7th Main KHM BlockGangenahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 209,
+            "wardNumber": 34,
+            "population": 708,
+            "address": "Gem English School 7th Main KHM BlockGangenahalli Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 210,
+            "wardNumber": 34,
+            "population": 1351,
+            "address": "Sri Vani English School 1st 'B' Main Hebbal Binny Mill Gangenahalli Room No.4",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 211,
+            "wardNumber": 34,
+            "population": 369,
+            "address": "Sri Vani English School 1st 'B' Main Hebbal Binny Mill Gangenahalli. Room No.5",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 212,
+            "wardNumber": 34,
+            "population": 974,
+            "address": "Sri Vani English School 1st 'B' Main Hebbal Binny Mill Gangenahalli. Room No.6",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 213,
+            "wardNumber": 34,
+            "population": 1153,
+            "address": "Sri Vani English School 1st 'B' Main Hebbal Binny Mill Gangenahalli. Room No.7",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 214,
+            "wardNumber": 34,
+            "population": 1461,
+            "address": "Boston English Nursery Primary & High School 2nd Cross Muthappa Block Gangenahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 215,
+            "wardNumber": 34,
+            "population": 417,
+            "address": "Boston English Nursery Primary & High School 2nd Cross Muthappa Block Gangenahalli Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 216,
+            "wardNumber": 34,
+            "population": 1052,
+            "address": "Boston English Nursery Primary & High School 2nd Cross Muthappa Block Gangenahalli Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 217,
+            "wardNumber": 34,
+            "population": 999,
+            "address": "Boston English Nursery Primary & High School 2nd Cross Muthappa Block Gangenahalli Room No4",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 218,
+            "wardNumber": 33,
+            "population": 1262,
+            "address": "Govt Urdu Higher Primary School 5th B Mainroad Rahamathnagar Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 219,
+            "wardNumber": 33,
+            "population": 468,
+            "address": "Govt Urdu Higher Primary School 5th B Mainroad Rahamathnagar Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 220,
+            "wardNumber": 33,
+            "population": 1401,
+            "address": "Govt Urdu Higher Primary School 5th B Mainroad Rahamathnagar Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 221,
+            "wardNumber": 33,
+            "population": 993,
+            "address": "Matha English Primary High School 1st Cross Rahamathnagar Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 222,
+            "wardNumber": 33,
+            "population": 1110,
+            "address": "Matha English Primary High School 1st Cross Rahamathnagar Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 223,
+            "wardNumber": 33,
+            "population": 595,
+            "address": "Matha English Primary High School 1st Cross Rahamathnagar Room No3",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 224,
+            "wardNumber": 46,
+            "population": 1076,
+            "address": "Vidyanikethan English High School",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 225,
+            "wardNumber": 46,
+            "population": 1035,
+            "address": "New Modern English Nursery & Primary School 3rd Mainroad Matadahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 226,
+            "wardNumber": 46,
+            "population": 957,
+            "address": "New Modern English Nursery & Primary School 3rd Mainroad Matadahalli Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 227,
+            "wardNumber": 46,
+            "population": 859,
+            "address": "Margaret Nursery and Senior Primary 1st Main Adi Kabir Ashrama Mothinagar Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 228,
+            "wardNumber": 46,
+            "population": 754,
+            "address": "Margaret Nursery and Senior Primary 1st Main Adi Kabir Ashrama Mothinagar Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 229,
+            "wardNumber": 46,
+            "population": 813,
+            "address": "Govt Kannada Model School Matadahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 230,
+            "wardNumber": 46,
+            "population": 1292,
+            "address": "Govt Kannada Model School Matadahalli Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 231,
+            "wardNumber": 46,
+            "population": 1328,
+            "address": "Govt Urdu Model Primary School Matadahalli Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 232,
+            "wardNumber": 46,
+            "population": 1160,
+            "address": "Govt Urdu Model Primary School Matadahalli Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 233,
+            "wardNumber": 33,
+            "population": 1224,
+            "address": "Govt. Pre=University College. Matadahalli. Room No.1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 234,
+            "wardNumber": 46,
+            "population": 932,
+            "address": "H R H A Higher Primary & High School Isaq Saheeb Road JCNagar Room No1",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 235,
+            "wardNumber": 46,
+            "population": 803,
+            "address": "H R H A Higher Primary & High School Isaq Saheeb Road JCNagar Room No2",
+            "Locality": "RTNagar"
+        },
+        {
+            "partNumber": 236,
+            "wardNumber": 46,
+            "population": 963,
+            "address": "H R H A Higher Primary & High School Isaq Saheeb Road JCNagar Room No3",
+            "Locality": "JCNagar"
+        },
+        {
+            "partNumber": 237,
+            "wardNumber": 46,
+            "population": 768,
+            "address": "H R H A Higher Primary & High School Isaq Saheeb Road JCNagar Room No4",
+            "Locality": "JCNagar"
+        }
+    ]
+}
