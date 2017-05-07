@@ -1,5 +1,5 @@
 {
-    "constituency" : "Hebbal",
+    "constituency": "Hebbal",
     "roadMapping": [
         {
             "partNumber": 1,
@@ -812,6 +812,334 @@
         {
             "partNumber": 50,
             "RoadName": "Dollars Colony (HIG) "
+        },
+        {
+            "partNumber": 51,
+            "RoadName": "RMV 2nd Stage Dollars Colony (HIG)"
+        },
+        {
+            "partNumber": 51,
+            "RoadName": "Dollars Colony 5th Main &15th Cross"
+        },
+        {
+            "partNumber": 51,
+            "RoadName": "Chikkamaranahalli 14th Cross "
+        },
+        {
+            "partNumber": 51,
+            "RoadName": "Dollers Colony ChikkamaranaHalli "
+        },
+        {
+            "partNumber": 51,
+            "RoadName": "Chikkamaranahalli "
+        },
+        {
+            "partNumber": 51,
+            "RoadName": "Chikkamaranahalli Krishna Garden"
+        },
+        {
+            "partNumber": 51,
+            "RoadName": "Chikkamaranahalli B E L Road"
+        },
+        {
+            "partNumber": 51,
+            "RoadName": "Dollars Colony (HIG)"
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra New Layout 5th A Cross "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra New Extension 5th C Cross "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "2nd B Mainroad Bhoopasandra New Layout "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra New Layout 2nd E Mainroad "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra New Layout 6th Cross "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra Hosabadavane 6th A Cross "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhusandra Hosabadavane 6th B Cross "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra Hosabadavane 2nd F Mainroad "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra Hosabadavane 5th B Cross "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra Hosabadavane 5th D Cross "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "2nd C Mainroad Bhoopasandra "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "2nd D Mainroad Bhoopasandra "
+        },
+        {
+            "partNumber": 52,
+            "RoadName": "Bhoopasandra Hosabadavane 2nd D Mainroad "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "1st A Cross Bhoopasandra Central Excise Layout "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "2nd Cross Bhopasandra CI Layout "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "3rd Cross Bhoopasandra Central Excise Layout "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "4th Cross Bhoopasandra Central Excis Layout "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "5th Cross Bhopasandra Excise Layout "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "6th Cross Bhopasandra CI Layout "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "7th Cross Bhopasandra Central Excise Layout "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "Bhoopasandra Hosabadavane 5th Cross "
+        },
+        {
+            "partNumber": 53,
+            "RoadName": "Bhoopasandra "
+        },
+        {
+            "partNumber": 54,
+            "RoadName": "60 Feet Road Bhoopasandra New Extension "
+        },
+        {
+            "partNumber": 54,
+            "RoadName": "Central Excise Layout"
+        },
+        {
+            "partNumber": 54,
+            "RoadName": "60 Feet Road Bhoopasandra New Layout"
+        },
+        {
+            "partNumber": 54,
+            "RoadName": "60 Feet Bhoopasandra Central Excise"
+        },
+        {
+            "partNumber": 54,
+            "RoadName": "1st Cross Bhoopasandra Central Excise"
+        },
+        {
+            "partNumber": 54,
+            "RoadName": "B S C E  layout"
+        },
+        {
+            "partNumber": 54,
+            "RoadName": "60 Feet Road Boopasandra New Layout Hoysala Sri Krishna Apartment"
+        },
+        {
+            "partNumber": 55,
+            "RoadName": "1st Cross UAS Layout "
+        },
+        {
+            "partNumber": 55,
+            "RoadName": "2nd Cross UAS Layout "
+        },
+        {
+            "partNumber": 55,
+            "RoadName": "3rd Cross UAS Layout "
+        },
+        {
+            "partNumber": 55,
+            "RoadName": "4th Cross UAS Layout "
+        },
+        {
+            "partNumber": 55,
+            "RoadName": "5th Cross U AS Layout "
+        },
+        {
+            "partNumber": 55,
+            "RoadName": "6th Cross UAS Layout "
+        },
+        {
+            "partNumber": 55,
+            "RoadName": "7th Cross UAS Layout "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "1st Cross RMS Layout "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "2nd Mainroad RMS Layout "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "3rd Mainroad RMS Layout "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "4th Main RMS Layout "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "5th Mainroad RMS Layout "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "UAS Layout 2nd Cross "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "6th Main RMS Layout "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "Post Office Road "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "UAS 1st Main 3rd Cross "
+        },
+        {
+            "partNumber": 56,
+            "RoadName": "2nd Cross Road R M S Layout "
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "5th A Mainroad Hebbal"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "5th Mainroad Hebbal"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "Hebbal Mainroad Houses"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "1st Cross Vinayaka Layout"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "2nd Cross Vinayaka Layout"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "3rd Cross Vinayaka Layout"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "4th Cross Vinayaka Layout"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "Hebbal Bellary Mainroad"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "Baptist Quarters Hebbal"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "Vinayaka Layout Hebbal"
+        },
+        {
+            "partNumber": 57,
+            "RoadName": "4th A Mainroad Hebbal"
+        },
+        {
+            "partNumber": 58,
+            "RoadName": "Anandagiri Badavane Hebbal "
+        },
+        {
+            "partNumber": 58,
+            "RoadName": "Police Quarters Hebbal "
+        },
+        {
+            "partNumber": 59,
+            "RoadName": "3rd Mainroad Hebbal "
+        },
+        {
+            "partNumber": 59,
+            "RoadName": "4th Mainroad Hebbal "
+        },
+        {
+            "partNumber": 60,
+            "RoadName": "Hebbal 2nd Mainroad"
+        },
+        {
+            "partNumber": 60,
+            "RoadName": "Government Model Primary School Road Hebbal"
+        },
+        {
+            "partNumber": 60,
+            "RoadName": "Hebbal 4th Mainroad"
+        },
+        {
+            "partNumber": 60,
+            "RoadName": "Hebbal"
+        },
+        {
+            "partNumber": 60,
+            "RoadName": "Hebbal 3rd Division Hebbal"
+        },
+        {
+            "partNumber": 60,
+            "RoadName": "4th A Mainroad Hebbal"
+        },
+        {
+            "partNumber": 60,
+            "RoadName": "4th A Cross Road Hebbal"
+        },
+        {
+            "partNumber": 61,
+            "RoadName": "1st Cross Hebbal"
+        },
+        {
+            "partNumber": 61,
+            "RoadName": "2nd Cross Hebbal Shivashankara Block"
+        },
+        {
+            "partNumber": 61,
+            "RoadName": "3rd Cross Hebbal"
+        },
+        {
+            "partNumber": 61,
+            "RoadName": "4th Cross Hebbal Shivashankara Block"
+        },
+        {
+            "partNumber": 61,
+            "RoadName": "5th Cross Hebbal"
+        },
+        {
+            "partNumber": 61,
+            "RoadName": "6th Cross Hebbal"
         }
     ]
 }
